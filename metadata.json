@@ -1,0 +1,5 @@
+{
+  "name": "MindFeed AI",
+  "description": "一款智能的每日新闻聚合器，能够学习您的偏好。它从 Hacker News 开始，使用 Gemini 总结内容，并为您策划个性化的日报。",
+  "requestFramePermissions": []
+}
