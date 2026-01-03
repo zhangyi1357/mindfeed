@@ -27,6 +27,9 @@ const BLOG_FEEDS: FeedConfig[] = [
   { name: 'BAIR (Berkeley)', url: 'https://bair.berkeley.edu/blog/feed.xml', webUrl: 'https://bair.berkeley.edu/blog/' },
   { name: 'MIT Robotics', url: 'https://news.mit.edu/rss/topic/robotics', webUrl: 'https://news.mit.edu/topic/robotics' },
   { name: 'NVIDIA Blog', url: 'https://blogs.nvidia.com/feed/', webUrl: 'https://blogs.nvidia.com/' },
+
+  // Systems & C++
+  { name: 'Abseil C++ Tips', url: 'https://abseil.io/feed.xml', webUrl: 'https://abseil.io/tips/' },
 ];
 
 export const ALL_SOURCES_CONFIG = [
